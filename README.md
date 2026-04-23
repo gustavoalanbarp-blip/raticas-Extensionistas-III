@@ -2,7 +2,7 @@
 Práticas Extensionistas III - Entrega 1
 
 TÍTULO DO PROJETO (Sistema de Agendamento Clínico)
-Autores: Gustavo Alan Barp 
+Autor: Gustavo Alan Barp 
 
 Introdução: O presente projeto propõe o desenvolvimento de um sistema de gerenciamento e agendamento de consultas para clínicas médicas. Com a digitalização dos serviços de saúde, torna-se essencial ferramentas que otimizem o tempo de médicos e pacientes.
 Objetivo: O estudo tem por objetivo modelar a estrutura de dados e as interações de um sistema que permita a marcação de consultas por pacientes e o gerenciamento de agendas por parte dos médicos.
